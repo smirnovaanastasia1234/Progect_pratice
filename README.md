@@ -1,1 +1,1 @@
-# Progect_pratice
+# Project_pratice
